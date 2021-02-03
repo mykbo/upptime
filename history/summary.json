@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/mykbostats.com",
     "slug": "my-kbo-stats",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "95.72%",
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.87%",
-    "time": 890,
-    "timeDay": 1170,
-    "timeWeek": 1087,
-    "timeMonth": 900,
-    "timeYear": 890,
+    "uptimeYear": "99.88%",
+    "time": 875,
+    "timeDay": 860,
+    "timeWeek": 1003,
+    "timeMonth": 883,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2021-01-31": 62
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2529,
-    "timeDay": 1883,
-    "timeWeek": 2850,
-    "timeMonth": 2564,
-    "timeYear": 2529,
+    "time": 2588,
+    "timeDay": 1535,
+    "timeWeek": 2653,
+    "timeMonth": 2675,
+    "timeYear": 2588,
     "dailyMinutesDown": {}
   }
 ]
