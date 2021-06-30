@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/mykbostats.com",
     "slug": "my-kbo-stats",
     "status": "down",
-    "uptime": "62.42%",
+    "uptime": "62.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.42%",
+    "uptimeYear": "62.32%",
     "time": 599,
     "timeDay": 178,
     "timeWeek": 113,
     "timeMonth": 100,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2021-06-30": 21,
+      "2021-06-30": 451,
       "2021-06-29": 1440,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
@@ -95,9 +95,9 @@
     "url": "http://www.mykbo.net",
     "icon": "https://favicons.githubusercontent.com/www.mykbo.net",
     "slug": "my-kbo-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -106,6 +106,8 @@
     "timeWeek": 2984,
     "timeMonth": 2234,
     "timeYear": 2404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-30": 0
+    }
   }
 ]
